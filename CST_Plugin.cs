@@ -4,7 +4,7 @@ using BepInEx.Logging;
 
 namespace CameraShakeTweaker
 {
-	[BepInPlugin("com.lacyway.cst", "CameraShakeTweaker", "1.0.0")]
+	[BepInPlugin("com.lacyway.cst", "CameraShakeTweaker", "1.1.0")]
 	public class CST_Plugin : BaseUnityPlugin
 	{
 		public static ManualLogSource CST_Logger;
